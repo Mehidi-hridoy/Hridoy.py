@@ -1,0 +1,57 @@
+SEO Aspect,Status,Key Point,URL,Bad Practice URL
+Title,Good,Title Exists: Jahan International School,https://jis.school/,
+Meta Description,Good,"Description Exists: To advance science and build global leaders for healthy people, living on a healthy planet, in a healthy economy.",https://jis.school/,
+Published Date,Bad,Published Date Not Found,https://jis.school/,https://jis.school/
+Modified Date,Bad,Modified Date Not Found,https://jis.school/,https://jis.school/
+H6,Good,Heading Text: Jahan International School,https://jis.school/,
+H1,Bad,H1 Tag Not Found,https://jis.school/,https://jis.school/
+Image,Bad,Image Missing Alt Tag: logos/3495_JIS-LOGO.png,https://jis.school/,https://jis.school/
+Image,Bad,Image Missing Alt Tag: https://jis.school/cmsfiles/images/293056843_5297643680258102_2391068931868873769_n1(1).jpg,https://jis.school/,https://jis.school/
+Image,Bad,Image Missing Alt Tag: https://jis.school/cmsfiles/images/293021423_5297635660258904_7296930681875056546_n.jpg,https://jis.school/,https://jis.school/
+Image,Bad,Image Missing Alt Tag: https://jis.school/cmsfiles/images/293395289_5297635540258916_749096481636989198_n1.jpg,https://jis.school/,https://jis.school/
+Image,Bad,Image Missing Alt Tag: https://jis.school/cmsfiles/images/293015914_5297635313592272_5813057902474254427_n.jpg,https://jis.school/,https://jis.school/
+Image,Bad,Image Missing Alt Tag: https://jis.school/cmsfiles/images/293001864_5297642776924859_2864958873003701140_n.jpg,https://jis.school/,https://jis.school/
+Image,Bad,Image Missing Alt Tag: https://jis.school/cmsfiles/images/293242933_5297644456924691_4483931275324699364_n.jpg,https://jis.school/,https://jis.school/
+Image,Bad,Image Missing Alt Tag: downloads/20012018143222_4580_12.jpg,https://jis.school/,https://jis.school/
+Image,Bad,Image Missing Alt Tag: new_img/arrow.png,https://jis.school/,https://jis.school/
+Image,Bad,Image Missing Alt Tag: img/info.png,https://jis.school/,https://jis.school/
+Image,Bad,Image Missing Alt Tag: new_img/arrow.png,https://jis.school/,https://jis.school/
+Image,Bad,Image Missing Alt Tag: img/info.png,https://jis.school/,https://jis.school/
+Image,Bad,Image Missing Alt Tag: downloads/24012018174401_8383_WhatsApp Image 2022-05-13 at 6.28.22 PM.jpeg,https://jis.school/,https://jis.school/
+Image,Bad,Image Missing Alt Tag: new_img/arrow.png,https://jis.school/,https://jis.school/
+Image,Bad,Image Missing Alt Tag: images/photo.png,https://jis.school/,https://jis.school/
+Image,Bad,Image Missing Alt Tag: profile_images/11062025170812_8106_WhatsApp Image 2025-06-11 at 12.00.08 PM.jpg.jpg,https://jis.school/,https://jis.school/
+Image,Bad,Image Missing Alt Tag: images/video.png,https://jis.school/,https://jis.school/
+Image,Bad,Image Missing Alt Tag: new_img/rss.png,https://jis.school/,https://jis.school/
+Image,Bad,Image Missing Alt Tag: images/notice.png,https://jis.school/,https://jis.school/
+Image,Bad,Image Missing Alt Tag: images/notice.png,https://jis.school/,https://jis.school/
+Image,Bad,Image Missing Alt Tag: new_img/arrow.png,https://jis.school/,https://jis.school/
+Image,Bad,Image Missing Alt Tag: new_img/facebook.png,https://jis.school/,https://jis.school/
+Image,Bad,Image Missing Alt Tag: new_img/download2.png,https://jis.school/,https://jis.school/
+Image,Bad,Image Missing Alt Tag: new_img/arrow.png,https://jis.school/,https://jis.school/
+Image,Bad,Image Missing Alt Tag: new_img/account.png,https://jis.school/,https://jis.school/
+Image,Bad,Image Missing Alt Tag: https://jis.school/cmsfiles/images/4241_jis_logo.png,https://jis.school/,https://jis.school/
+Image,Bad,Image Missing Alt Tag: new_img/account.png,https://jis.school/,https://jis.school/
+Image,Bad,Image Missing Alt Tag: logos/3495_JIS-LOGO.png,https://jis.school/,https://jis.school/
+Image,Bad,Image Missing Alt Tag: https://jis.school/cmsfiles/images/appp%20(3).png,https://jis.school/,https://jis.school/
+Image,Bad,Image Missing Alt Tag: https://jis.school/cmsfiles/images/if_youtube_v2_386762.png,https://jis.school/,https://jis.school/
+Image,Bad,Image Missing Alt Tag: https://jis.school/cmsfiles/images/if_square-facebook_317727.png,https://jis.school/,https://jis.school/
+Image,Bad,Image Missing Alt Tag: https://jis.school/cmsfiles/images/if_square-twitter_317723.png,https://jis.school/,https://jis.school/
+Favicon,Good,Favicon Exists,https://jis.school/,
+Mobile-Friendliness,Good,Viewport Meta Tag Found,https://jis.school/,
+HTTP Status Code,Good,Status Code: 200,https://jis.school/,
+Canonical Tag,Bad,Canonical Tag Not Found,https://jis.school/,https://jis.school/
+Structured Data (JSON-LD),Bad,Structured Data Not Found,https://jis.school/,https://jis.school/
+Robots.txt,Bad,Robots.txt Not Found,https://jis.school/,https://jis.school/
+XML Sitemap,Good,Sitemap Found: https://jis.school/sitemap.xml,https://jis.school/,
+Broken Links,Bad,"Broken Links Found: tel:01713388819, mailto:Jis.edu.bd@gmail.com, https://play.google.com/store/apps/details?id=com.schooljis.app",https://jis.school/,
+hreflang Tags,Bad,hreflang Tags Not Found,https://jis.school/,https://jis.school/
+Indexability,Good,Page is Indexable,https://jis.school/,
+Analytics Integration,Bad,Google Analytics Not Found,https://jis.school/,https://jis.school/
+Core Web Vitals,Bad,Core Web Vitals Data Not Found,https://jis.school/,https://jis.school/
+HTTPS Implementation,Good,Site Uses HTTPS,https://jis.school/,
+Security Headers (CSP),Good,Content-Security-Policy Found,https://jis.school/,
+Security Headers (X-Content-Type-Options),Bad,X-Content-Type-Options Not Found,https://jis.school/,https://jis.school/
+Image File Sizes,Good,No Large Images Found,https://jis.school/,
+Image File Names,Bad,"Images with Spaces in Filenames: downloads/24012018174401_8383_WhatsApp Image 2022-05-13 at 6.28.22 PM.jpeg, profile_images/11062025170812_8106_WhatsApp Image 2025-06-11 at 12.00.08 PM.jpg.jpg",https://jis.school/,
+Lazy Loading,Bad,Lazy Loading Not Found,https://jis.school/,https://jis.school/

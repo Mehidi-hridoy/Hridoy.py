@@ -1,0 +1,52 @@
+SEO Aspect,Status,Key Point,URL,Bad Practice URL
+Title,Good,Title Exists: Link3 Technologies Ltd - : Largest Internet Service Provider(ISP),https://link3.net/,
+Meta Description,Good,Description Exists: : Largest Internet Service Provider(ISP),https://link3.net/,
+Published Date,Bad,Published Date Not Found,https://link3.net/,https://link3.net/
+Modified Date,Bad,Modified Date Not Found,https://link3.net/,https://link3.net/
+H2,Good,Heading Text: What are You Looking For ?,https://link3.net/,
+H3,Good,Heading Text: Price Range,https://link3.net/,
+H3,Good,Heading Text: Price Range,https://link3.net/,
+H3,Good,Heading Text: Network Bandwidth,https://link3.net/,
+H3,Good,Heading Text: Network Bandwidth,https://link3.net/,
+H3,Good,Heading Text: Special Need,https://link3.net/,
+H3,Good,Heading Text: Special Need,https://link3.net/,
+H2,Good,Heading Text: Check Coverage,https://link3.net/,
+H2,Good,Heading Text: What is my  current internet speed?,https://link3.net/,
+H3,Good,Heading Text: Get Link3 Now,https://link3.net/,
+H3,Good,Heading Text: Send us your concerns,https://link3.net/,
+H2,Good,Heading Text: Need New Connection?,https://link3.net/,
+H2,Good,Heading Text: 24/7 Support Service,https://link3.net/,
+H3,Good,"Heading Text: Enjoy 
+                                Premium Customer Service",https://link3.net/,
+H2,Good,Heading Text: Link3 Technologies Limited,https://link3.net/,
+H3,Good,Heading Text: QUALITY POLICY,https://link3.net/,
+H3,Good,Heading Text: ISMS POLICY,https://link3.net/,
+H2,Good,Heading Text: Other Pages,https://link3.net/,
+H2,Good,Heading Text: Quick links,https://link3.net/,
+H2,Good,Heading Text: Contact Us,https://link3.net/,
+H2,Good,"Heading Text: Quick
+                                                Links",https://link3.net/,
+H2,Good,"Heading Text: Other
+                                                Pages",https://link3.net/,
+H2,Good,Heading Text: Contact Us,https://link3.net/,
+H1,Bad,H1 Tag Not Found,https://link3.net/,https://link3.net/
+Image,Bad,Image Missing Alt Tag: assets/img/bandwidth-meter.png,https://link3.net/,https://link3.net/
+Image,Bad,Image Missing Alt Tag: https://link3.net/assets/img/logo-dark.svg,https://link3.net/,https://link3.net/
+Favicon,Good,Favicon Exists,https://link3.net/,
+Mobile-Friendliness,Good,Viewport Meta Tag Found,https://link3.net/,
+HTTP Status Code,Good,Status Code: 200,https://link3.net/,
+Canonical Tag,Bad,Canonical Tag Not Found,https://link3.net/,https://link3.net/
+Structured Data (JSON-LD),Bad,Structured Data Not Found,https://link3.net/,https://link3.net/
+Robots.txt,Good,Robots.txt Found: https://link3.net/robots.txt,https://link3.net/,
+XML Sitemap,Good,Sitemap Found: https://link3.net/sitemap.xml,https://link3.net/,
+Broken Links,Bad,"Broken Links Found: tel:1687, tel:+88029821332, mailto: info@link3.net, https://www.linkedin.com/company/link3-technologies/",https://link3.net/,
+hreflang Tags,Bad,hreflang Tags Not Found,https://link3.net/,https://link3.net/
+Indexability,Good,Page is Indexable,https://link3.net/,
+Analytics Integration,Good,Google Analytics Found,https://link3.net/,
+Core Web Vitals,Bad,Core Web Vitals Data Not Found,https://link3.net/,https://link3.net/
+HTTPS Implementation,Good,Site Uses HTTPS,https://link3.net/,
+Security Headers (CSP),Bad,Content-Security-Policy Not Found,https://link3.net/,https://link3.net/
+Security Headers (X-Content-Type-Options),Good,X-Content-Type-Options Found,https://link3.net/,
+Image File Sizes,Bad,"Large Images Found: https://link3.net/uploads/images/1755779559-50041650.png, https://link3.net/uploads/images/1750956408-7756154.png, https://link3.net/uploads/images/1750956408-35558817.png, https://link3.net/uploads/images/1751432958-77420326.jpg, https://link3.net/uploads/images/1751432958-3935420.jpg, https://link3.net/uploads/images/1748277889-49977842.png",https://link3.net/,
+Image File Names,Good,All Image File Names are Optimized,https://link3.net/,
+Lazy Loading,Bad,Lazy Loading Not Found,https://link3.net/,https://link3.net/

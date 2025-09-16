@@ -43,7 +43,7 @@ status, messages = mail.search(None, "ALL")
 email_ids = messages[0].split()
 
 # Get the last 100 emails
-email_ids = email_ids[-100:]  # Get the last 100 emails
+email_ids = email_ids[-200:]  # Get the last 100 emails
 
 # Open CSV file to save email details
 with open(CSV_FILE, mode="w", newline="", encoding="utf-8") as file:

@@ -6,8 +6,8 @@ from urllib.parse import urljoin
 from datetime import datetime
 
 # URL of the page to analyze
-url = "your_website_url"
-compnay="Hero"
+url = "https://link3.net/"
+company = "Link 3 "
 
 
 # Send a GET request to fetch the page content and measure load time
@@ -219,7 +219,7 @@ else:
     seo_data.append(["Lazy Loading", "Bad", "Lazy Loading Not Found", url, url])
 
 # Save the results to a CSV file
-filename = f'{compnay}_seo_analysis_with_international_and_security.csv'
+filename = f'{company}_seo_analysis_with_international_and_security.csv'
 with open(filename, mode='w', newline='', encoding='utf-8') as file:
     writer = csv.writer(file)
 
